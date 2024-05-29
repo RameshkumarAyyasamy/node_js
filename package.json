@@ -11,7 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodetree": "0.0.3",
     "sharp": "^0.33.3"
   },
   "devDependencies": {
