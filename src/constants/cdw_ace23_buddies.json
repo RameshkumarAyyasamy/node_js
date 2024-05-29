@@ -1,36 +1,6 @@
 [
   {
-    "employeeId": 1002,
-    "realName": "Robert Kennedy",
-    "nickName": "Robert",
-    "dob": "15/10/1998",
-    "hobbies": [
-      "Music",
-      "Cricket"
-    ]
-  },
-  {
-    "employeeId": 1003,
-    "realName": "John Kennedy",
-    "nickName": "JK",
-    "dob": "01/02/2000",
-    "hobbies": [
-      "Soccer",
-      "Music"
-    ]
-  },
-  {
-    "employeeId": 1004,
-    "realName": "John Kennedy",
-    "nickName": "JK",
-    "dob": "01/02/2000",
-    "hobbies": [
-      "Soccer",
-      "Music"
-    ]
-  },
-  {
-    "employeeId": 1005,
+    "employeeId": 1001,
     "realName": "John Kennedy",
     "nickName": "JK",
     "dob": "01/02/2000",

@@ -1,4 +1,3 @@
-const e = require('express');
 const buddyService = require('../services/buddyService');
 
 
