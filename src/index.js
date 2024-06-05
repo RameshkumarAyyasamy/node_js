@@ -23,12 +23,24 @@ async function writeJsonFile(filePath, data) {
 }
 
 //Randomizing colors
+function randomize(array,size) {
+  if (array.length < size) {
+    throw new Error('Array length should be equal or gearter that size');
+  }
+  for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array.slice(0, size);
+}
+
+
 async function randomizeColors(inputFile, outputFile, numberOfColors) {
   try {
     //Read the color palette
     const colorPalette = await readJsonFile(inputFile);
     //Randomize the colors
-    const randomizedColors = _.sampleSize(colorPalette, numberOfColors);
+    const randomizedColors = randomize(colorPalette, numberOfColors);
     //write the randomized colors in a new file
     await writeJsonFile(outputFile, randomizedColors);
     //Read the randomized colors
