@@ -44,4 +44,4 @@ function randomize(array,size) {
   } catch (err) {
     console.error(err.message);
   }
-})('../src/color_palette.json', 5);
+})('./src/color_palette.json', 5);
