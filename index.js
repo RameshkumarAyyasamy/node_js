@@ -53,8 +53,8 @@ async function randomizeColors(inputFile, outputFile, numberOfColors) {
 }
 
 (async () => {
-  const inputFilePath = '../src/color_palette.json';
-  const outputFilePath = 'randomized_color_palette.json';
+  const inputFilePath = './src/color_palette.json';
+  const outputFilePath = './src/randomized_color_palette.json';
   
   await randomizeColors(inputFilePath, outputFilePath, 5);
 })();
