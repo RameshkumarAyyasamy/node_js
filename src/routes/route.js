@@ -1,8 +1,9 @@
 const express = require('express');
+
 const buddyController = require('../controllers/buddyController');
 
 const router = express.Router();
-
+console.log("line:6");
 router.get('/', buddyController.getAllBuddies);
 router.get('/:id', buddyController.getSingleBuddy);
 router.post('/add', buddyController.addBuddy);

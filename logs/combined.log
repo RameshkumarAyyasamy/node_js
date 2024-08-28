@@ -1,0 +1,32 @@
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:05:02"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:15:15"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:16:33"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:17:16"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:22:13"}
+{"level":"info","message":"Fetching buddy with identifier: undefined","service":"buddy-service","timestamp":"2024-08-28 12:22:15"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:22:28"}
+{"level":"info","message":"Fetching buddy with identifier: undefined","service":"buddy-service","timestamp":"2024-08-28 12:22:30"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:22:53"}
+{"level":"info","message":"Fetching buddy with identifier: undefined","service":"buddy-service","timestamp":"2024-08-28 12:22:56"}
+{"level":"info","message":"Fetching buddy with identifier: undefined","service":"buddy-service","timestamp":"2024-08-28 12:23:45"}
+{"level":"info","message":"Buddy data updated successfully in file.","service":"buddy-service","timestamp":"2024-08-28 12:23:45"}
+{"level":"info","message":"Fetching buddy with identifier: undefined","service":"buddy-service","timestamp":"2024-08-28 12:23:49"}
+{"level":"info","message":"Fetching buddy with identifier: undefined","service":"buddy-service","timestamp":"2024-08-28 12:24:59"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:25:03"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:25:07"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:25:09"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:25:17"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:25:28"}
+{"level":"info","message":"Buddy data updated successfully in file.","service":"buddy-service","timestamp":"2024-08-28 12:25:28"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:26:04"}
+{"level":"info","message":"Buddy data updated successfully in file.","service":"buddy-service","timestamp":"2024-08-28 12:26:04"}
+{"level":"info","message":"Buddy updated successfully: {\"employeeId\":1002,\"realName\":\"Robert Kennedy\",\"nickName\":\"Robert\",\"dob\":\"15/10/1998\",\"hobbies\":[\"Music\",\"Cricket\"]}","service":"buddy-service","timestamp":"2024-08-28 12:26:04"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:26:44"}
+{"level":"info","message":"Buddy data updated successfully in file.","service":"buddy-service","timestamp":"2024-08-28 12:26:44"}
+{"level":"info","message":"Buddy deleted successfully with employeeId: 1002","service":"buddy-service","timestamp":"2024-08-28 12:26:44"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:32:20"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:32:24"}
+{"level":"warn","message":"Buddy not found with employeeId: 1002","service":"buddy-service","timestamp":"2024-08-28 12:32:24"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:32:27"}
+{"level":"info","message":"Server is running on http://localhost:3009","service":"buddy-service","timestamp":"2024-08-28 12:33:02"}
+{"level":"info","message":"Fetching buddies","service":"buddy-service","timestamp":"2024-08-28 12:33:04"}

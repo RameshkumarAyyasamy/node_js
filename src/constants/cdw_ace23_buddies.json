@@ -8,5 +8,15 @@
       "Soccer",
       "Music"
     ]
+  },
+  {
+    "employeeId": 1003,
+    "realName": "John Kennedy",
+    "nickName": "JK",
+    "dob": "01/02/2000",
+    "hobbies": [
+      "Soccer",
+      "Music"
+    ]
   }
 ]
