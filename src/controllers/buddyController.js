@@ -38,7 +38,7 @@ exports.updateBuddy = (req, res) => {
   res.json(result);
 };
 
-exports.deleteBuddy = (req, res) => {
+exports.deleteBuddy = (req, res) => { 
   const id = req.params.id;
   const result = buddyService.deleteBuddy(id);
   res.json(result);
